@@ -6,14 +6,18 @@ Technical Skills: Microsoft Excel, SQL and SSRS
 
 ### Certifications 
 Credly Badge Profile
+
 **Alteryx**
 - Alteryx Foundational Micro-Credential
 - Alteryx Designer Core Certification
+
 **Microsoft**
 - Azure Fundamentals
 - Career Essentials in Cyberscecurity
+
 **Atlassian**
 - Atlassian Aglie Project Management Profession Certificate
+
 **Scrum Alliance**
 - Certified Scrum Master
   
