@@ -1,5 +1,5 @@
 title: Brian Godfray
-logo: /assets/img/headshot_circle.png
-#descripton: text below the image
-show_downloads: true
+logo: /assets/headshot_circle.png
+descripton: Data Portfolio
+show_downloads: false
 theme: jekyll-theme-minimal
