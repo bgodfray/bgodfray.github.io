@@ -26,8 +26,8 @@ Technical Skills: Microsoft Excel, SQL and SSRS
 - Power BI Data Analyst Associate
 
 **Projects**
-- [Stanford Code in Place Python Project](https://github.com/bgodfray/Rock_paper_scissors_python) ![stanford](https://github.com/user-attachments/assets/cff783cc-fc16-448b-ad7b-fa75ed809f64)
-
+- [Stanford Code in Place Python Project](https://github.com/bgodfray/Rock_paper_scissors_python)
+  
   During Nov 2024 to Feb 2025 learned Python from the stanford Code in Place platform with Digital Jersey.
   This is the project where I created of a Rock, Paper, Scissors game with a variety of options
 - Power BI Visualisation Dashboard
