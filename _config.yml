@@ -1,1 +1,5 @@
-
+title: Brian Godfray
+logo: /assets/img/headshot_circle.png
+#descripton: text below the image
+show_downloads: true
+theme: jekyll-theme-minimal
