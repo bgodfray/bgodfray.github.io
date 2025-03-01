@@ -26,10 +26,13 @@ Credly Badge Profile
 - Power BI Data Analyst Associate
 
 **Projects**
-- Stanford Code in Place Python Project  
+- Stanford Code in Place Python Project [standford](/assets/stanford.png)
   During Nov 2024 to Feb 2025 learned Python from the Code in Place platform with Digital Jersey.
   This is the project where I created of a Rock, Paper, Scissors game
 - Power BI Visualisation Dashboard
   Upcoming project
 
 ### Contact details
+Email : [Brian.J.Godfray@gmail.com](brian.j.godfray+data@gmail.com)
+Linkedin : [Brian Godfray](https://www.linkedin.com/in/brian-godfray-115743b2/)
+
