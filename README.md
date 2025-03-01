@@ -32,4 +32,4 @@ Credly Badge Profile
 - Power BI Visualisation Dashboard
   Upcoming project
 
-###Contact details
+### Contact details
