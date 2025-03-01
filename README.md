@@ -1,6 +1,6 @@
 # Data Analysis
 
-#This is a list of my certifications and a sample of some of the projects I have worked on.
+This is a list of my certifications and a sample of some of the projects I have worked on.
 
 Technical Skills: Microsoft Excel, SQL and SSRS
 
