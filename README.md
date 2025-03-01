@@ -33,8 +33,8 @@ Technical Skills: Microsoft Excel, SQL and SSRS
 - Power BI Visualisation Dashboard
   Upcoming project
 
-### Contact details
-Email : [Brian.J.Godfray@gmail.com](brian.j.godfray+data@gmail.com)
+## Contact details
+Email : Brian.J.Godfray@gmail.com
 
 Linkedin : [Brian Godfray](https://www.linkedin.com/in/brian-godfray-115743b2/)
 
