@@ -4,8 +4,8 @@ This is a list of my certifications and a sample of some of the projects I have 
 
 Technical Skills: Microsoft Excel, SQL and SSRS
 
-### Certifications 
-Credly Badge Profile
+## Certifications 
+[Credly Badge Profile](https://www.credly.com/users/brian-godfray)
 
 **Alteryx**
 - Alteryx Foundational Micro-Credential
@@ -26,7 +26,7 @@ Credly Badge Profile
 - Power BI Data Analyst Associate
 
 **Projects**
-- Stanford Code in Place Python Project [standford](/assets/stanford.png)
+- Stanford Code in Place Python Project [standford](/asset/stanford.png)
   
   During Nov 2024 to Feb 2025 learned Python from the Code in Place platform with Digital Jersey.
   This is the project where I created of a Rock, Paper, Scissors game
