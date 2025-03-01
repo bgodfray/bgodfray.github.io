@@ -1,8 +1,10 @@
+# Data Analysis
+
 #This is a list of my certifications and a sample of some of the projects I have worked on.
 
-Technical Skills: SQL, SSRS and Microsoft Excel
+Technical Skills: Microsoft Excel, SQL and SSRS
 
-###Certifications 
+### Certifications 
 Credly Badge Profile
 **Alteryx**
 - Alteryx Foundational Micro-Credential
