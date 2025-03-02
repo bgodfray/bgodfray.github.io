@@ -29,7 +29,7 @@ Technical Skills: Microsoft Excel, SQL and SSRS
 - [Stanford Code in Place Python Project](https://github.com/bgodfray/Rock_paper_scissors_python)
   
   During Nov 2024 to Feb 2025 learned Python from the stanford Code in Place platform with Digital Jersey.
-  This is the project where I created of a Rock, Paper, Scissors game with a variety of options
+  This is the project where I created a Rock, Paper, Scissors game with a variety of options
 - Power BI Visualisation Dashboard
   
   Upcoming project
