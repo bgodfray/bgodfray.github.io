@@ -15,6 +15,9 @@ Technical Skills: Microsoft Excel, SQL and SSRS
 - Azure Fundamentals
 - Career Essentials in Cyberscecurity
 
+***Python Insititute***
+- Certified Entry-Level Python Programmer (PCEP)
+
 **Atlassian**
 - Atlassian Aglie Project Management Profession Certificate
 
@@ -22,8 +25,7 @@ Technical Skills: Microsoft Excel, SQL and SSRS
 - Certified Scrum Master
   
 **Currently Studying**
-- PCEP Python
-- PCAP Python 
+- Python Certified Associate Python Programmer (PCAP)
 - Power BI Data Analyst Associate
 
 **Projects**
