@@ -15,7 +15,7 @@ Technical Skills: Microsoft Excel, SQL and SSRS
 - [Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/BrianGodfray-5035/E15D08D1DA82164E?sharingId=43A4B58B5C4BA066)
 - Career Essentials in Cyberscecurity
 
-***Python Insititute***
+**Python Insititute**
 - Certified Entry-Level Python Programmer (PCEP)
 
 **Atlassian**
