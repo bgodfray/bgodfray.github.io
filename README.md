@@ -6,6 +6,7 @@ Technical Skills: Microsoft Excel, SQL and SSRS
 
 ## Certifications 
 [Credly Badge Profile](https://www.credly.com/users/brian-godfray)
+
 [HSBC Credly Badge Profile](https://www.credly.com/users/brian-godfray.935a08d7)
 
 **Alteryx**
