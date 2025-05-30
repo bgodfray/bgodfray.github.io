@@ -25,9 +25,8 @@ Technical Skills: Microsoft Excel, SQL and SSRS
 
 **Scrum Alliance**
 - Certified Scrum Master
-  
+    
 **Currently Studying**
-- Python Certified Associate Python Programmer (PCAP)
 - Power BI Data Analyst Associate
 
 **Projects**
