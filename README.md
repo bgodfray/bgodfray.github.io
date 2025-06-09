@@ -38,7 +38,7 @@ Technical Skills: Microsoft Excel, SQL and SSRS
 - [Stanford Code in Place 2025 Python Project]
   
   After completing the public stanford Code in Place platform with Digital Jersey I was accepted to take part in the 5th Student Code in Place with Standford University. 
-  Project currently being worked on
+  I decided to do another game as my final project and ended up do a Who wants to be a Millionaire game.
   
 - Power BI Visualisation Dashboard
   
