@@ -35,7 +35,7 @@ Technical Skills: Microsoft Excel, SQL and SSRS
   During Nov 2024 to Feb 2025 learned Python from the stanford Code in Place platform with Digital Jersey.
   This is the project where I created a Rock, Paper, Scissors game with a variety of options
 
-- [Stanford Code in Place 2025 Python Project]
+- [Stanford Code in Place 2025 Python Project](https://github.com/bgodfray/WWTBAM)
   
   After completing the public stanford Code in Place platform with Digital Jersey I was accepted to take part in the 5th Student Code in Place with Standford University. 
   I decided to do another game as my final project and ended up do a Who wants to be a Millionaire game.
