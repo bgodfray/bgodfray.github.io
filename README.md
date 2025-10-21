@@ -1,5 +1,7 @@
 # Brian Godfray — Data Analytics Portfolio (Minimal)
 
+DRAFT WEBSITE UNDER DEVELOPMENT
+
 Welcome — this minimal version of the portfolio highlights core projects and upcoming work.
 
 ## Projects
