@@ -1,32 +1,67 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Python — Portfolio</title><link rel="stylesheet" href="../style.css"></head><body>
-<header class="header"><div class="container"><a href="../index.html" style="color:#fff;text-decoration:none">← Home</a></div></header>
-<main class="container"><h2>Python Projects</h2>
-<p class="meta">Projects from Stanford Code in Place</p>
-<div class="card-grid" style="margin-top:20px">
- <div class="card">
-  <img src="assets/RPS.png">
-  <h4>Stanford Code in Place Python Project with Digital Jersey</h4>
-  <p class="meta">
-    During Nov 2024 to Feb 2025 learned Python from the Stanford Code in Place platform with Digital Jersey.
-    This is the project where I created a Rock, Paper, Scissors game with a variety of options.
-  </p>
-  <a href="https://github.com/bgodfray/Rock_paper_scissors_python" 
-     target="_blank" 
-     style="display:inline-block;margin-top:8px;background:var(--teal-dark);
-            color:#fff;padding:6px 12px;border-radius:4px;text-decoration:none;
-            font-weight:600;">
-     View Code on GitHub
-  </a>
-</div>
-  <div class="card"><img src="assets/wmtoam.png"><h4>Stanford Code in Place 2025 Python Project</h4><p class="meta">After completing the public Stanford Code in Place platform with Digital Jersey I was accepted to take part in the 5th Student Code in Place with Stanford University.
-I decided to do another game as my final project and ended up do a Who wants to be a Millionaire game.</p>
-    <a href="https://github.com/bgodfray/WWTBAM" 
-     target="_blank" 
-     style="display:inline-block;margin-top:8px;background:var(--teal-dark);
-            color:#fff;padding:6px 12px;border-radius:4px;text-decoration:none;
-            font-weight:600;">
-     View Code on GitHub
-  </a>  
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Python — Portfolio</title>
+<link rel="stylesheet" href="../style.css">
+<style>
+/* --- Responsive project image fix --- */
+.card img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 240px;
+  object-fit: contain;
+  border-radius: 8px;
+  margin: 0 auto;
+}
+
+/* Optional: consistent card height */
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 400px;
+}
+</style>
+</head>
+
+<body>
+<header class="header">
+  <div class="container">
+    <a href="../index.html" style="color:#fff;text-decoration:none">← Home</a>
   </div>
-</div>
-</main><footer class="footer"><div class="container"><a href="../index.html">Back</a></div></footer></body></html>
+</header>
+
+<main class="container">
+  <h2>Python Projects</h2>
+  <p class="meta">Projects from Stanford Code in Place</p>
+
+  <div class="card-grid" style="margin-top:20px">
+
+    <!-- Rock Paper Scissors Project -->
+    <div class="card">
+      <img src="assets/RPS.png" alt="Rock Paper Scissors Project">
+      <h4>Stanford Code in Place Python Project with Digital Jersey</h4>
+      <p class="meta">
+        During Nov 2024 to Feb 2025 I learned Python from the Stanford Code in Place platform with Digital Jersey.
+        This project is a Rock, Paper, Scissors game featuring multiple play modes and logic handling.
+      </p>
+      <a href="https://github.com/bgodfray/Rock_paper_scissors_python" 
+         target="_blank" 
+         style="display:inline-block;margin-top:8px;background:var(--teal-dark);
+                color:#fff;padding:6px 12px;border-radius:4px;text-decoration:none;
+                font-weight:600;">
+         View Code on GitHub
+      </a>
+    </div>
+
+    <!-- Who Wants to Be a Millionaire Project -->
+    <div class="card">
+      <img src="assets/wmtoam.png" alt="Who Wants to Be a Millionaire Project">
+      <h4>Stanford Code in Place 2025 Python Project</h4>
+      <p class="meta">
+        After completing the public Stanford Code in Place program with Digital Jersey, I was accepted into
+        the 5th Student Code in Place with Stanford University. For my final project, I created a 
+        <em>Who Wants
