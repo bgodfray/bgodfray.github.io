@@ -16,6 +16,11 @@ Welcome — this minimal version of the portfolio highlights core projects and u
 - Credit Risk Model — *In development* 
 - AI-Enhanced Finance Dashboard — *Upcoming*
 
+### Python
+- Financial Data Analysis — *Completed*
+- Automation with Python — *Completed*
+- Data Validation Toolkit — *In development*
+
 ---
 
 ## About
