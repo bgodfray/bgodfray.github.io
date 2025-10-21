@@ -5,6 +5,25 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Brian Godfray | Data Analytics &amp; Insights</title>
 <link rel="stylesheet" href="style.css">
+<style>
+/* --- Responsive card image fix --- */
+.card img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 220px;
+  object-fit: contain;
+  border-radius: 8px;
+  margin: 0 auto;
+}
+/* Optional: keeps all cards the same height */
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 340px;
+}
+</style>
 </head>
 <body>
 <header class="header">
@@ -12,22 +31,27 @@
     <div class="nav">
       <div style="flex:1">
         <h1 style="margin:0;color:#fff">Brian Godfray | Data Analytics &amp; Insights</h1>
-        <div class="meta" style="color:#000000;">Business Management Manager — Data Analytics | SQL • SSRS</div>
+        <div class="meta" style="color:#000000;">
+          Business Management Manager — Data Analytics | SQL • SSRS
+        </div>
       </div>
       <div>
         <a href="index.html" style="color:#fff;text-decoration:none;margin-right:12px">Portfolio</a>
-     </div>
+      </div>
     </div>
   </div>
 </header>
+
 <main class="container">
   <section class="hero">
     <div>
       <h2 style="margin-top:0">Transforming Data into Insightful Decisions</h2>
-      <p class="meta">Experienced MI professional focused on finance. Building modern BI and AI-driven solutions to support robust decision-making.</p>
-      <p class="meta"><span class="badge">20+ yrs</span>Management Information • Financial Reporting • Automation</p>
-    </div>
-    <div>
+      <p class="meta">
+        Experienced MI professional focused on finance. Building modern BI and AI-driven solutions to support robust decision-making.
+      </p>
+      <p class="meta">
+        <span class="badge">20+ yrs</span>Management Information • Financial Reporting • Automation
+      </p>
     </div>
   </section>
 
@@ -35,45 +59,62 @@
     <h3>Featured Areas</h3>
     <div class="card-grid">
       <a class="card" href="python.html">
-      <img src="assets/Python.png" alt="Python">
-      <h4>Python Projects</h4>
-      <p class="meta">Stanford Code in Place games.</p>
-    </a>
+        <img src="assets/Python.png" alt="Python">
+        <h4>Python Projects</h4>
+        <p class="meta">Stanford Code in Place games.</p>
+      </a>
+
       <!--
       <a class="card" href="sql.html">
         <img src="assets/placeholder_sql.png" alt="SQL">
         <h4>SQL & Reporting</h4>
         <p class="meta">Management information, SSRS examples, and ETL automation.</p>
       </a>
+
       <a class="card" href="powerbi.html">
         <img src="assets/placeholder_dashboard.png" alt="Power BI">
         <h4>Power BI Dashboards</h4>
         <p class="meta">Interactive finance dashboards and KPI reporting (in development).</p>
       </a>
+
       <a class="card" href="ml.html">
         <img src="assets/placeholder_ml.png" alt="ML">
         <h4>Machine Learning</h4>
         <p class="meta">Predictive models for credit risk, fraud detection and portfolio analysis.</p>
-      </a>-->
+      </a>
+      -->
+
       <div class="card" style="text-align:center;display:flex;flex-direction:column;justify-content:center;align-items:center;">
-  <img src="assets/placeholder_dashboard.png" alt="More projects" style="width:80px;height:80px;object-fit:contain;opacity:0.6;margin-top:10px;">
-  <h4 style="margin-top:12px;">More Projects Coming Soon</h4>
-  <p class="meta" style="max-width:250px;">New Power BI dashboards, SQL automation, and machine learning demos will be added throughout 2026.</p>
-</div>
+        <img src="assets/placeholder_dashboard.png" alt="More projects" style="width:80px;height:80px;object-fit:contain;opacity:0.6;margin-top:10px;">
+        <h4 style="margin-top:12px;">More Projects Coming Soon</h4>
+        <p class="meta" style="max-width:250px;">
+          New Power BI dashboards, SQL automation, and machine learning demos will be added throughout 2026.
+        </p>
+      </div>
+    </div>
   </section>
 
   <section style="margin-top:28px">
     <h3>About</h3>
-    <p class="meta">I am a dedicated professional with advanced proficiency in Excel, SQL Server and SSRS. 
+    <p class="meta">
+      I am a dedicated professional with advanced proficiency in Excel, SQL Server and SSRS. 
       My work focuses on accuracy, governance and delivering reliable insights to business stakeholders. 
-      Currently expanding into Power BI and AWS-based machine learning.</p>
+      Currently expanding into Power BI and AWS-based machine learning.
+    </p>
   </section>
 </main>
 
 <footer class="footer">
   <div class="container">
-    <div>Connect: <a href="https://www.linkedin.com/in/brian-godfray-115743b2" target="_blank">LinkedIn</a> • <a href="https://www.credly.com/users/brian-godfray" target="_blank">Credly</a> • <a href="mailto:brain.j.godfray+data@gmail.com">Email</a></div>
-    <div style="margin-top:6px" class="meta">© Brian Godfray — Data Analytics Portfolio</div>
+    <div>
+      Connect: 
+      <a href="https://www.linkedin.com/in/brian-godfray-115743b2" target="_blank">LinkedIn</a> • 
+      <a href="https://www.credly.com/users/brian-godfray" target="_blank">Credly</a> • 
+      <a href="mailto:brain.j.godfray+data@gmail.com">Email</a>
+    </div>
+    <div style="margin-top:6px" class="meta">
+      © Brian Godfray — Data Analytics Portfolio
+    </div>
   </div>
 </footer>
 </body>
