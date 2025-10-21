@@ -4,6 +4,12 @@ Welcome — this minimal version of the portfolio highlights core projects and u
 
 ## Projects
 
+## Quick Links
+- [SQL & Reporting](sql.md)
+- [Power BI](powerbi.md)
+- [Machine Learning](ml.md)
+- [Python Projects](python.md)
+
 ### SQL & Reporting
 - Financial Reporting SQL — *In development (coming Q1 2026)*
 - ETL Automation — *Upcoming*
