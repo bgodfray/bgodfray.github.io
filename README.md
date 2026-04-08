@@ -1,2 +1,2 @@
-[Weblink-bgodfray.github.io](bgodfray.github.io)
+[Visit my site](https://bgodfray.github.io)
 
